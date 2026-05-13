@@ -53,6 +53,8 @@ sudo apt upgrade -y
 
 After the update completed, I created a VirtualBox snapshot so I would have a clean reset point before moving further into lab work.
 
+<img width="2066" height="761" alt="github_WiresharkWorking" src="https://github.com/user-attachments/assets/a8517b86-218d-479c-9291-12723dc0dc40" />
+
 ### 2. Configuring the Network
 
 After the initial setup, I checked the network configuration and found that the Kali VM was behind VirtualBox’s default NAT network. That worked for internet access, but it was not ideal for this lab because I wanted the Kali VM to appear as a separate system on the same local network as the Windows DefenseBox.
@@ -105,6 +107,8 @@ Both ports returned as `filtered`.
 
 In this lab context, the filtered result was consistent with firewall filtering or dropped probes. The important part, however, was that Wireshark on the DefenseBox showed the attempted traffic from the Kali AttackBox.
 
+<img width="1877" height="838" alt="github_project1_nmap_2port_scan" src="https://github.com/user-attachments/assets/e7daf952-80af-46bc-8e4e-b2d221fded94" />
+
 ### 4. Basic Reconnaissance - Part II: Nmap Scan
 
 After confirming basic connectivity, I ran a slightly broader but still controlled Nmap scan from the Kali AttackBox to the Windows DefenseBox:
@@ -122,6 +126,8 @@ I used this scan to check a small set of common Windows and remote-access ports:
 - `443` - HTTPS
 - `445` - SMB
 - `3389` - Remote Desktop
+
+<img width="1386" height="1135" alt="github_nmap_common_ports_kali_result" src="https://github.com/user-attachments/assets/10352982-9697-4a1a-9c7b-30398d9d2446" />
 
 Nmap identified the host as up and reported three open Windows-related services:
 
