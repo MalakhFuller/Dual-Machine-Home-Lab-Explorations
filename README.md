@@ -60,7 +60,7 @@ A Kali Linux machine will be used to scan a defensive machine, and the resulting
 - Port scan behavior identification
 - SOC-style documentation
 
-**Status:** Planned
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/Detecting-Basic-Network-Reconnaissance-in-a-Dual-Machine-Home-Lab.md)
 
 ---
 
