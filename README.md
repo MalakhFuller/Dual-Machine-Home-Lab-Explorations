@@ -48,9 +48,9 @@ This repository demonstrates hands-on SOC preparation in areas such as:
 
 ### Project 1: Detecting Network Reconnaissance Activity in a Dual-Machine Home Lab
 
-This project focuses on detecting basic network scanning activity in a controlled home lab environment.
+This project focused on detecting basic network scanning activity in a controlled home lab environment.
 
-A Kali Linux machine will be used to scan a defensive machine, and the resulting traffic will be reviewed using tools such as Wireshark or Zeek.
+A Kali Linux machine was used to scan a defensive machine, and the resulting traffic was reviewed using Wireshark.
 
 **Skills demonstrated:**
 
