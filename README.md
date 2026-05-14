@@ -181,11 +181,9 @@ This structure is designed to show not only what happened, but also how the inve
 
 ## Current Focus
 
-The first project will be:
+Project 2: Investigating Repeated Failed Login Attempts in a Home SOC Lab
 
-**Detecting Network Reconnaissance Activity in a Dual-Machine Home Lab**
 
-This project will introduce basic network visibility by generating a controlled scan and analyzing the resulting traffic.
 
 ---
 
