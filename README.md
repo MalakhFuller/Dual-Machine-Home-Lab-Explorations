@@ -66,9 +66,9 @@ A Kali Linux machine was used to scan a defensive machine, and the resulting tra
 
 ### Project 2: Investigating Repeated Failed Login Attempts in a Home SOC Lab
 
-This project focuses on generating and investigating repeated failed login attempts.
+This project focused on generating and investigating repeated failed login attempts.
 
-The goal is to understand how brute-force or password-spraying behavior may appear in Windows or Linux authentication logs.
+The goal was to understand how brute-force or password-spraying behavior may appear in Windows or Linux authentication logs.
 
 **Skills demonstrated:**
 
@@ -78,7 +78,7 @@ The goal is to understand how brute-force or password-spraying behavior may appe
 - Alert severity assessment
 - Basic incident timeline creation
 
-**Status:** Planned
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/Investigating-Repeated-Failed-Login-Attempts-in-a-Home-SOC-Lab.md)
 
 ---
 
