@@ -321,7 +321,7 @@ This command searched recent Sysmon Event ID 1 logs, parsed the XML event data, 
 
 This produced clear evidence of a PowerShell process launched with `-EncodedCommand` at approximately `10:58 AM` on `05/18/2026`.
 
-<img width="1898" height="829" alt="image 3 edit" src="https://github.com/user-attachments/assets/00976352-e900-42a2-bb8f-bed09ac311b1" />
+<img width="1093" height="477" alt="01_encodedcommand_redacted_deterministic" src="https://github.com/user-attachments/assets/79343e48-f555-452c-9b9b-58bf70dfea14" />
 
 For me, this was one of the most useful parts of the lab. Event Viewer gave me the full event, but PowerShell helped turn the logs into a cleaner investigation view.
 
