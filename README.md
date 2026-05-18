@@ -97,7 +97,7 @@ Windows Event Logs and Sysmon will be used to collect and review activity, with 
 - MITRE ATT&CK mapping
 - Detection logic development
 
-**Status:** Planned
+**Status:** [Completed](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/Investigating-Suspicious-PowerShell-Activity-with-Sysmon.md)
 
 ---
 
