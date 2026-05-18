@@ -181,7 +181,7 @@ This structure is designed to show not only what happened, but also how the inve
 
 ## Current Focus
 
-Project 2: Investigating Repeated Failed Login Attempts in a Home SOC Lab
+Project 4: SOC-Style Phishing Email Triage Report
 
 
 
