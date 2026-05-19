@@ -116,7 +116,7 @@ The investigation will review sender details, headers, links, domains, and indic
 - Phishing verdict writing
 - SOC-style triage reporting
 
-**Status:** Planned
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/SOC-Style-Phishing-Email-Triage-Report.md)
 
 ---
 
@@ -181,8 +181,7 @@ This structure is designed to show not only what happened, but also how the inve
 
 ## Current Focus
 
-Project 4: SOC-Style Phishing Email Triage Report
-
+Project 5: End-to-End SOC Investigation: Reconnaissance to Detection
 
 
 ---
