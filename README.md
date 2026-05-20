@@ -135,7 +135,7 @@ The final case study will include endpoint logs, network traffic, a timeline of 
 - Detection and response thinking
 - Executive-style reporting
 
-**Status:** Planned
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/05_End-to-End-SOC-Investigation-Reconnaissance-to-Detection.md)
 
 ---
 
