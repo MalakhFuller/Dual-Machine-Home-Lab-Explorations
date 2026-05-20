@@ -60,7 +60,7 @@ A Kali Linux machine was used to scan a defensive machine, and the resulting tra
 - Port scan behavior identification
 - SOC-style documentation
 
-**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/Detecting-Basic-Network-Reconnaissance-in-a-Dual-Machine-Home-Lab.md)
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/01_Detecting-Basic-Network-Reconnaissance-in-a-Dual-Machine-Home-Lab.md)
 
 ---
 
@@ -78,7 +78,7 @@ The goal was to understand how brute-force or password-spraying behavior may app
 - Alert severity assessment
 - Basic incident timeline creation
 
-**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/Investigating-Repeated-Failed-Login-Attempts-in-a-Home-SOC-Lab.md)
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/02_Investigating-Repeated-Failed-Login-Attempts-in-a-Home-SOC-Lab.md)
 
 ---
 
@@ -97,7 +97,7 @@ Windows Event Logs and Sysmon will be used to collect and review activity, with 
 - MITRE ATT&CK mapping
 - Detection logic development
 
-**Status:** [Completed](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/Investigating-Suspicious-PowerShell-Activity-with-Sysmon.md)
+**Status:** [Completed](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/03_Investigating-Suspicious-PowerShell-Activity-with-Sysmon.md)
 
 ---
 
@@ -116,7 +116,7 @@ The investigation will review sender details, headers, links, domains, and indic
 - Phishing verdict writing
 - SOC-style triage reporting
 
-**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/SOC-Style-Phishing-Email-Triage-Report.md)
+**Status:** [Completed.](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/04_SOC-Style-Phishing-Email-Triage-Report.md)
 
 ---
 
