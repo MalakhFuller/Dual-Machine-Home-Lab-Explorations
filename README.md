@@ -179,13 +179,6 @@ This structure is designed to show not only what happened, but also how the inve
 
 ---
 
-## Current Focus
-
-Project 5: End-to-End SOC Investigation: Reconnaissance to Detection
-
-
----
-
 ## Professional Development Goals
 
 This repository supports my transition into SOC analyst work by demonstrating:
