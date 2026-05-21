@@ -157,6 +157,8 @@ Planned components may include:
 
 The lab will focus on safe, legal, isolated testing only.
 
+Most labs are run from a primary Windows 11 desktop acting as the DefenseBox, with Kali Linux running as the AttackBox VM on the same host. A separate laptop remains available for true dual-physical-machine testing when needed.
+
 ---
 
 ## Case Study Format
