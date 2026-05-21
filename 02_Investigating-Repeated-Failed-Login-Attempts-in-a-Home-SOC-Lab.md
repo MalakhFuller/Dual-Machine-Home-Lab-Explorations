@@ -61,7 +61,7 @@ With failure logging enabled, I was ready to generate a controlled failed login 
 Still on the DefenseBox, I created a local lab-only user account:
 
 ```powershell
-net user soclab Password-redacted /add
+net user soclab <REDACTED_PASSWORD> /add
 ```
 
 This created a test account named `soclab`.
