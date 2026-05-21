@@ -6,7 +6,12 @@ The purpose of this lab is to develop practical SOC analyst skills by safely gen
 
 My background in HUMINT-driven Competitive Intelligence helps shape my approach to cybersecurity: collecting signals, validating sources, correlating activity, and building clear, defensible narratives from incomplete data.
 
-This repository will grow one project at a time as I build, investigate, document, and refine my home lab.
+This repository will grow one project at a time as I build, investigate, document, and refine my home lab. The initial five planned projects have all been completed.
+- [Project 1 | Detecting Basic Network Reconnaissance in a Dual-Machine Home Lab](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/01_Detecting-Basic-Network-Reconnaissance-in-a-Dual-Machine-Home-Lab.md)
+- [Project 2 | Investigating Repeated Failed Login Attempts in a Home SOC Lab](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/02_Investigating-Repeated-Failed-Login-Attempts-in-a-Home-SOC-Lab.md)
+- [Project 3 | Investigating Suspicious PowerShell Activity with Sysmon](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/03_Investigating-Suspicious-PowerShell-Activity-with-Sysmon.md)
+- [Project 4 | SOC-Style Phishing Email Triage Report](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/04_SOC-Style-Phishing-Email-Triage-Report.md)
+- [Project 5 | End-to-End SOC Investigation: Reconnaissance to Detection](https://github.com/MalakhFuller/Dual-Machine-Home-Lab-Explorations/blob/main/05_End-to-End-SOC-Investigation-Reconnaissance-to-Detection.md)
 
 ---
 
